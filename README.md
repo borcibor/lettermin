@@ -1,2 +1,2 @@
 # lettermin
- test
+https://borcibor.github.io/lettermin/index.html
